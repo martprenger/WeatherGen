@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="WeatherGenIWA">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/WeatherGenIWA.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
